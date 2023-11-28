@@ -69,7 +69,7 @@ export default function Chat() {
           : null}
         </div>
     </div>
-    <span className="text-sm text-gray-400 fixed bottom-0 w-screen text-center py-2 bg-gray-800">Made By: Gokul Anand at GAllium</span>
+    <span className="text-sm text-gray-400 fixed bottom-0 w-screen text-center py-2 bg-gray-800">Idea By: Gokul Prasana and Sai Rishit Coded By: Gokul Anand from Alpha Wisdom Vidyashram</span>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.2.0/flowbite.min.js"></script>
     </div>
   );
